@@ -13,6 +13,7 @@ body{
 #navBar{
     display: flex;
     justify-content: end;
+    flex-wrap:wrap;
     position: relative;
     right: 50px;
     bottom: 50px;
