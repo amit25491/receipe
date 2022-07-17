@@ -46,8 +46,8 @@ a{
     left:50px;
 }
 #container-2 > img{
-    width:700px;
-    height: 200px;
+    min-width:700px;
+    min-height: 200px;
 }
 
 
