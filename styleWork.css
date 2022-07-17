@@ -219,9 +219,9 @@ button{
 #contributers{
     display: flex;
     justify-content: center;
-    position: absolute;
+/*     position: absolute;
     top:50px;
-    left:250px;
+    left:250px; */
 }
 .contributer-imgs{
     max-width: 300px;
