@@ -220,7 +220,8 @@ button{
 
 #contributers{
     display: flex;
-   flex-wrap:wrap;
+    justify-content:center;
+   
     
     
 /*     position: absolute;
@@ -236,7 +237,11 @@ button{
      justify-content:left;
      flex-wrap:wrap;
     }
-    
+    #contributers{
+        display:flex;
+        flex-wrap:wrap;
+        gap:1em;
+    }
 }
 
 
