@@ -203,9 +203,9 @@ button{
     justify-content:center;
 }
 #receipe-tag{
-      display:flex;
+    display:flex;
     justify-content:center;
-    flex-direction:row;
+    
 }
 
 #about-us{
