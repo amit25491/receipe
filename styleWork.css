@@ -21,6 +21,8 @@ body{
 
 #main-container{
     display: flex;
+    justify-content:center;
+    
 
 }
 a{
