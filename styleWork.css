@@ -21,8 +21,7 @@ body{
 
 #main-container{
     display: flex;
-    flex-wrap:wrap;
-    padding: 0 1rm;
+    
 
 }
 a{
