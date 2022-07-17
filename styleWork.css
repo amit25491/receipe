@@ -247,12 +247,11 @@ button{
     #receipe-tag{
         position:relative;
         left:2px;
+        padding:5px;
     }
-    #receipe-tag>button{
-        position:relative;
-        left:2px;
+    
         
-    }
+ 
     
 }
 
