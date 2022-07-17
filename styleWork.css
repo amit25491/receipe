@@ -220,7 +220,7 @@ button{
 
 #contributers{
     display: flex;
-    justify-content: center;
+   flex-wrap:wrap;
     
     
 /*     position: absolute;
@@ -228,12 +228,7 @@ button{
     left:250px; */
 }
 
-@media screen and (max-width: 600px){
-#contributers{
-    display: flex;
-    flex-direction:column;
-    }
-}
+
 .contributer-imgs{
     max-width: 300px;
     max-height: 400px;
