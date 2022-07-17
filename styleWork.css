@@ -39,10 +39,10 @@ a{
     justify-content: center;
     position: relative;
     left:50px;
+    top:100px;
 }
 #container-2 > img{
-    position:absolute;
-    top:250px;
+    
     min-width:700px;
     min-height: 200px;
 }
