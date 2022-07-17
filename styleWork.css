@@ -202,7 +202,7 @@ button{
    display:flex;
     justify-content:center;
 }
-#receipe-tag>button>a{
+#receipe-tag{
       display:flex;
     justify-content:center;
     flex-direction:row;
@@ -213,21 +213,13 @@ button{
     justify-content:center;
     color: antiquewhite;
     font-size: 20px;
-/*     position: relative;
-    left:350px;
-    top:100px; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #contributers{
     display: flex;
     justify-content:center;
-   
-    
-    
-/*     position: absolute;
-    top:50px;
-    left:250px; */
+  
 }
 
 @media screen and (max-width:600px){
