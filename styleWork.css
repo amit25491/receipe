@@ -198,13 +198,14 @@ button{
     border-radius: 20px;
     width: 400px;
 }
-#receipe-tag{
-    position:absolute;
-    left: 400px;
+.heading{
+   display:flex;
+    justify-content:center;
 }
 #receipe-tag>button{
-    position: relative;
-    right:100px;
+      display:flex;
+    justify-content:center;
+    flex-direction:row;
 }
 
 #about-us{
