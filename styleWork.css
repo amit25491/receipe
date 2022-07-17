@@ -33,13 +33,13 @@ a{
     display: flex;
     justify-content:left;
     flex-direction: column;
-    
+    gap:2em;
     
 }
 #container-2{
     display: flex;
     justify-content: center;
-   gap:2em;
+   
     
 }
 #container-2 > img{
