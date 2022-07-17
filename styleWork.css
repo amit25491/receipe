@@ -36,7 +36,7 @@ a{
     gap:2em;
     
 }
-#container-2{
+#container-2> img {
     display: flex;
     justify-content: center;
    
@@ -224,8 +224,8 @@ button{
     left:250px;
 }
 .contributer-imgs{
-    min-width: 300px;
-    min-height: 400px;
+    max-width: 300px;
+    max-height: 400px;
     text-align: center; 
     padding: 10px;
     border: 2px solid grey;
