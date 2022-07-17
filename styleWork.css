@@ -231,7 +231,7 @@ button{
 @media screen and (max-width: 600px){
 #contributers{
     display: flex;
-    justify-content: center;
+    
     align-items:column;
 
 }
