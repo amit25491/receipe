@@ -208,11 +208,13 @@ button{
 }
 
 #about-us{
+    display:flex;
+    justify-content:center;
     color: antiquewhite;
     font-size: 20px;
-    position: relative;
+/*     position: relative;
     left:350px;
-    top:100px;
+    top:100px; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -220,7 +222,7 @@ button{
     display: flex;
     justify-content: center;
     flex-direction:row;
-    gap:2em;
+    
 /*     position: absolute;
     top:50px;
     left:250px; */
