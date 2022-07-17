@@ -231,7 +231,7 @@ button{
 @media screen and (max-width: 600px){
 #contributers{
     display: flex;
-    align-items:column;
+    flex-direction:column;
     }
 }
 .contributer-imgs{
