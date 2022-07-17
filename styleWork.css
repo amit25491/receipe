@@ -227,6 +227,14 @@ button{
     top:50px;
     left:250px; */
 }
+
+@media screen and (max-width: 600px){
+#contributers{
+    display: flex;
+    justify-content: center;
+    align-items:row;
+
+}
 .contributer-imgs{
     max-width: 300px;
     max-height: 400px;
