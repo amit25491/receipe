@@ -235,12 +235,12 @@ button{
      
      display:flex;
      justify-content:left;
-     flex-wrap:wrap;
+     flex-direction:column;
     }
     #contributers{
         display:flex;
-        flex-wrap:wrap;
-        gap:1em;
+          flex-direction:column;
+       padding:10px;
     }
 }
 
