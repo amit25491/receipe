@@ -33,18 +33,17 @@ a{
     display: flex;
     justify-content:left;
     flex-direction: column;
-  
+    
     
 }
 #container-2{
     display: flex;
     justify-content: center;
-   
+   gap:2em;
     
 }
 #container-2 > img{
-    display:flex;
-    justify-content:center;
+   
     min-width:700px;
     min-height: 200px;
     
