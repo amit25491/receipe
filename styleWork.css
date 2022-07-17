@@ -35,14 +35,15 @@ a{
     
 }
 #container-2{
-    display: flex;
+/*     display: flex;
     justify-content: center;
-/*     position: relative;
+    position: relative;
     left:50px; */
     
 }
 #container-2 > img{
-    
+    display:flex;
+    justify-content:center;
     min-width:700px;
     min-height: 200px;
 }
