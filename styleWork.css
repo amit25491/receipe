@@ -219,7 +219,8 @@ button{
 #contributers{
     display: flex;
     justify-content: center;
-    flex-direction:column;
+    flex-direction:row;
+    gap:2em;
 /*     position: absolute;
     top:50px;
     left:250px; */
