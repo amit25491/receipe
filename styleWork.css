@@ -35,8 +35,8 @@ a{
     
 }
 #container-2{
-/*     display: flex;
-    justify-content: center; */
+    display: flex;
+    justify-content: center;
     position: absolute;
     left:50px;
     top:50px;
