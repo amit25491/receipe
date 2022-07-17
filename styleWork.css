@@ -221,7 +221,7 @@ button{
 #contributers{
     display: flex;
     justify-content: center;
-    flex-direction:row;
+    
     
 /*     position: absolute;
     top:50px;
