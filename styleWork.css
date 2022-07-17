@@ -37,8 +37,8 @@ a{
 #container-2{
     display: flex;
     justify-content: center;
-    position: absolute;
-    left:50px;
+/*     position: relative;
+    left:50px; */
     
 }
 #container-2 > img{
