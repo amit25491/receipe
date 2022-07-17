@@ -228,6 +228,17 @@ button{
     left:250px; */
 }
 
+@media screen and (max-width:600px){
+    
+ #about-us{
+     
+     display:flex;
+     justify-content:left;
+     flex-wrap:wrap;
+    }
+    
+}
+
 
 .contributer-imgs{
     max-width: 300px;
