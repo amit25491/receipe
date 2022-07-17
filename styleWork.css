@@ -242,6 +242,17 @@ button{
           flex-direction:column;
        padding:10px;
     }
+    
+    #receipe-tag{
+        display:flex;
+        justify-content:left;
+        flex-wrap:wrap;
+    }
+    #receipe-tag>button{
+        display:flex;
+        justify-content:left;
+        flex-direction:column;
+    }
 }
 
 
