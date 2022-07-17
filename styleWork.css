@@ -248,6 +248,11 @@ button{
         position:relative;
         left:2px;
     }
+    #receipe-tag>button{
+        position:relative;
+        left:2px;
+        
+    }
     
 }
 
